@@ -12,4 +12,4 @@ Bu proje, akademik bir mobil programlama dersi kapsamında geliştirilmiştir. A
 ## Kurulum
 1. `flutter pub get`
 2. `flutter run`
-YT videosu:
+YT videosu: https://youtu.be/Wp0nXQYY8h4
